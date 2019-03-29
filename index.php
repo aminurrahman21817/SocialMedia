@@ -10,6 +10,9 @@ include 'DB/database.php';
 	<title>SocialMediaProject</title>
 </head>
 <body>
+	<p>
+	"my name is khan"
+	</p>
 
 </body>
 </html>
